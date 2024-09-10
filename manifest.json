@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "新標籤頁靈感通知",
+  "name": "Motivation Dash",
   "version": "1.0",
   "description": "在開啟新標籤頁時顯示激勵人心的通知",
   "permissions": ["notifications", "storage", "tabs"],
